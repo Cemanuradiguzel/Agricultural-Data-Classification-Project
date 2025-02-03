@@ -4,4 +4,5 @@ The project involved cleaning and preprocessing data, applying feature selection
 multiple machine learning algorithms such as Random Forest and SVM. Key metrics like accuracy,
 precision, recall, and AUC were analyzed, achieving over 80% accuracy with optimized models. The
 results were visualized using ROC curves and confusion matrices.
+
 ![image](https://github.com/user-attachments/assets/0ef9b042-feb7-4215-828a-0ac3626598be)
