@@ -4,7 +4,7 @@ This project was developed as part of the **Data Mining** course in collaboratio
 
 Key performance metrics, including **accuracy, precision, recall, and AUC**, were analyzed, achieving over **80% accuracy** with optimized models. The results were visualized using **ROC curves** and **confusion matrices**.  
 
-## 📌 How Does It Work?  
+## 🛠️ How We Built It 
 1. The dataset was cleaned and preprocessed to remove inconsistencies.  
 2. Feature selection was applied to enhance model performance.  
 3. Machine learning models were trained and evaluated using different metrics.  
